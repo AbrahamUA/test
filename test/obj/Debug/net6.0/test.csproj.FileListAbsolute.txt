@@ -1,0 +1,15 @@
+/Users/abrahamasemota/Downloads/Test/test/bin/Debug/net6.0/test
+/Users/abrahamasemota/Downloads/Test/test/bin/Debug/net6.0/test.deps.json
+/Users/abrahamasemota/Downloads/Test/test/bin/Debug/net6.0/test.runtimeconfig.json
+/Users/abrahamasemota/Downloads/Test/test/bin/Debug/net6.0/test.dll
+/Users/abrahamasemota/Downloads/Test/test/bin/Debug/net6.0/test.pdb
+/Users/abrahamasemota/Downloads/Test/test/obj/Debug/net6.0/test.csproj.AssemblyReference.cache
+/Users/abrahamasemota/Downloads/Test/test/obj/Debug/net6.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abrahamasemota/Downloads/Test/test/obj/Debug/net6.0/test.AssemblyInfoInputs.cache
+/Users/abrahamasemota/Downloads/Test/test/obj/Debug/net6.0/test.AssemblyInfo.cs
+/Users/abrahamasemota/Downloads/Test/test/obj/Debug/net6.0/test.csproj.CoreCompileInputs.cache
+/Users/abrahamasemota/Downloads/Test/test/obj/Debug/net6.0/test.dll
+/Users/abrahamasemota/Downloads/Test/test/obj/Debug/net6.0/refint/test.dll
+/Users/abrahamasemota/Downloads/Test/test/obj/Debug/net6.0/test.pdb
+/Users/abrahamasemota/Downloads/Test/test/obj/Debug/net6.0/test.genruntimeconfig.cache
+/Users/abrahamasemota/Downloads/Test/test/obj/Debug/net6.0/ref/test.dll
